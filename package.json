@@ -23,6 +23,7 @@
     "remark-html": "^13.0.1",
     "tailwindcss": "^2.0.2",
     "typescript": "next"
+    "@types/node" : "latest",
   },
   "devDependencies": {
     "@types/react": "^17.0.0"
